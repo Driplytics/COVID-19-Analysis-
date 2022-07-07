@@ -12,4 +12,4 @@ my Goal is to build an interactive dashboard that can provide insights to histor
 
 ### Resources 
 
-•    Live COVID-19 Data from.
+*    Live COVID-19 Data from.
