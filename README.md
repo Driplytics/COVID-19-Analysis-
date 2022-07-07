@@ -14,3 +14,7 @@ my Goal is to build an interactive dashboard that can provide insights to histor
 
 *    Live COVID-19 Data from.  <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series>
 
+###  Dashboard
+
+[Analysis Result](https://github.com/Driplytics/COVID-19-Analysis-/blob/main/COVID%20dashboardArtboard%201.png)
+
