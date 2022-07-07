@@ -12,4 +12,5 @@ my Goal is to build an interactive dashboard that can provide insights to histor
 
 ### Resources 
 
-*    Live COVID-19 Data from.   https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+*    Live COVID-19 Data from.  
+
