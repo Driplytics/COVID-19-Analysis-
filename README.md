@@ -6,4 +6,8 @@ my Goal is to build an interactive dashboard that can provide insights to histor
 
 ##  Tools and Resources
 
- 
+###   Tool Used
+***Microsoft Excel
+
+### Resources 
+***Live COVID-19 Data from 
