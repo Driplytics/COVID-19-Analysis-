@@ -16,5 +16,5 @@ my Goal is to build an interactive dashboard that can provide insights to histor
 
 ###  Dashboard
 
-[Analysis Result](https://github.com/Driplytics/COVID-19-Analysis-/blob/main/COVID%20dashboardArtboard%201.png)
+![Analysis Result](https://github.com/Driplytics/COVID-19-Analysis-/blob/main/COVID%20dashboardArtboard%201.png)
 
