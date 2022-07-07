@@ -8,7 +8,8 @@ my Goal is to build an interactive dashboard that can provide insights to histor
 
 ###   Tool Used
 1.   Microsoft Excel.
+2.   Adobe Illustrator
 
 ### Resources 
 
-•  Live COVID-19 Data from.
+•    Live COVID-19 Data from.
